@@ -50,7 +50,7 @@ Connect the Radio Control receiver to the Pixhack V3 rcin pin.. RC supports the 
 ###pixhack pinouts
 
 Pixhack v3 does not use standard Dronecode pins. The pinouts below is shown.
-![Connect sd card to Pixhack v3](../../assets/flight_controller/pixhack_v3/pixhack_v3_pinouts.png) 
+![Pixhack v3 pinouts](../../assets/flight_controller/pixhack_v3/pixhack_v3_pinouts.png) 
 
 
 
