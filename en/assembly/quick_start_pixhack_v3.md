@@ -46,6 +46,9 @@ SD cards are most commonly used to log and analyse flight details. Insert the ca
 A remote control (RC) radio system is required if you want to manually control your vehicle.
 You will need to select a compatible transmitter/receiver and then bind them so that they communicate (read the instructions that come with your specific transmitter/receiver).
 Connect the Radio Control receiver to the Pixhack V3 rcin pin.. RC supports the PPM and the SBus.
+## Motors
+
+Motors/servos are connected to the **MAIN**(It is identified as S on Pixhack v3) and **AUX** ports in the order specified for your vehicle in the [Airframe Reference](../airframes/airframe_reference.md). 
 
 ###pixhack pinouts
 
