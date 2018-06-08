@@ -5,6 +5,7 @@ The quick start guide shows how to power the Pixhack V2/V3 flight controller and
 ![Pixhack v3](../../assets/flight_controller/pixhack_v3/pixhack_v3_157_large_default.jpg)
 
 ###Mount and Orient Controller
+
 Pixhack V2/V3 should be mounted on the frame using vibration-damping foam pads (included in the kit). It should be positioned as close to your vehicle’s center of gravity as possible, oriented top-side up with the arrow pointing towards the front of the vehicle.
 
 <img src="../../assets/flight_controller/pixhack_v3/pixhack_v3_vehicle_feont.jpg" align="center"/>
@@ -42,15 +43,18 @@ Telemetry radios may be used to communicate and control a vehicle in flight from
 
 SD cards are most commonly used to log and analyse flight details. Insert the card (included in Pixhack v3 kit) into Pixhack v3 as shown below.
 ![Connect sd card to Pixhack v3](../../assets/flight_controller/pixhack_v3/pixhack_v3_sd.jpg) 
+
 ###Radio Control
+
 A remote control (RC) radio system is required if you want to manually control your vehicle.
 You will need to select a compatible transmitter/receiver and then bind them so that they communicate (read the instructions that come with your specific transmitter/receiver).
 Connect the Radio Control receiver to the Pixhack V3 rcin pin.. RC supports the PPM and the SBus.
-## Motors
+
+###Motors
 
 Motors/servos are connected to the **MAIN**(It is identified as S on Pixhack v3) and **AUX** ports in the order specified for your vehicle in the [Airframe Reference](../airframes/airframe_reference.md). 
 
-###pixhack pinouts
+###Pinouts
 
 Pixhack v3 does not use standard Dronecode pins. The pinouts below is shown.
 ![Pixhack v3 pinouts](../../assets/flight_controller/pixhack_v3/pixhack_v3_pinouts.png) 
