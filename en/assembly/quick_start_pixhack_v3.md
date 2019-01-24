@@ -1,4 +1,4 @@
-#Pixhack V2/V3 wiring quick start
+#Pixhack V2/V3/V3X wiring quick start
 
 The quick start guide shows how to power the Pixhack V2/V3 flight controller and connect its most important peripherals.
 
