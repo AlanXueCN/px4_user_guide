@@ -6,7 +6,7 @@ The quick start guide shows how to power the Pixhack V2/V3 flight controller and
 
 ###Mount and Orient Controller
 
-Pixhack V2/V3 should be mounted on the frame using vibration-damping foam pads (included in the kit). It should be positioned as close to your vehicle’s center of gravity as possible, oriented top-side up with the arrow pointing towards the front of the vehicle.
+Pixhack V2/V3/V3X should be mounted on the frame using vibration-damping foam pads (included in the kit). It should be positioned as close to your vehicle’s center of gravity as possible, oriented top-side up with the arrow pointing towards the front of the vehicle.
 
 <img src="../../assets/flight_controller/pixhack_v3/pixhack_v3_vehicle_feont.jpg" align="center"/>
 
